@@ -18,6 +18,12 @@
         
     },
 
+    "autoload": {
+        "classmap": [
+            "public/ckeditor_php5.php"
+        ]
+    },
+
     "provide": {
       
     }
