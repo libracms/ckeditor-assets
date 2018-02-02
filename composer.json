@@ -4,9 +4,9 @@
     "description":  "CKEditor assets for ZF2 projects",
     "keywords":     ["libra", "jquery", "assets"],
     "homepage":     "http://ckeditor.com/",
-    "license":      ["GPL", "LGPL", "MPL"],
+    "license":      ["MIT"],
     "authors": [
-        {"name": "Vitalii Nagara", "email": "duke@ejoom.com", "role": "maintainer, developer", "homepage": ""}
+        {"name": "Vitalii Nagara", "email": "duke@ejoom.com", "role": "maintainer, developer"}
     ],
 
     "require": {
